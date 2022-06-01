@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammed-shabeer
+- 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I%E2%80%99m+shabeer)](https://git.io/typing-svg)
 - 👀 I’m interested in php, javascript
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
